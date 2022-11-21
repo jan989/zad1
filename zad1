@@ -1,0 +1,17 @@
+using System;
+
+namespace zad1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for (int i = 3; i <=10; i++)
+            {
+                Console.WriteLine(Math.Pow(3, i));
+            }
+            Console.ReadKey();
+        }
+    }
+    mam nadzieje ze oto chodzilo
+    
